@@ -1,0 +1,10 @@
+.vs/
+.build/
+bin/Debug/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.tmp
+bin/Release/BoardTests.exe
+docs/
